@@ -2,7 +2,6 @@
 This is the first programming assignment of CS4222 15/16 sem 2
 This is a CS4222 project 
 
-
 Sun Siyue A0101491U 
 
 Guo Xiang A0112659A 
